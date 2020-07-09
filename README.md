@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey hey, welcome! 
 
-<!--
-**redrambles/redrambles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Ann** - a developer who is passionate about **teaching** and all things **code**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Fox saying hello](https://media3.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+
+___
+
+- 👯 I’m particularly passionate about **Git** and **Python** 🐍, with lots of love for **JavaScript** and **WordPress**
+- I work at [Skillcrush](https://skillcrush.com) 
+- 💬 I am open to collaborating!
+- 📫 You can reach me at [@redrambles](https://twitter.com/redrambles) and [LinkedIn](https://www.linkedin.com/in/ann-cascarano-28877693/)
+- 😄 Pronouns: she/her
+
+
