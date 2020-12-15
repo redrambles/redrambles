@@ -14,3 +14,7 @@ ___
 - 😄 - Pronouns: she/her
 
 
+[![Redrambles's github stats](https://github-readme-stats.vercel.app/api?username=redrambles&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)](https://github.com/redrambles/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
