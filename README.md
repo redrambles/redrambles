@@ -7,7 +7,7 @@ I'm **Ann** - a developer who is passionate about **teaching** and all things **
 
 ___
 
-- 👯 - I’m particularly passionate about **Git** and **Python** 🐍, with lots of love for **JavaScript** and **WordPress**
+- 👯 - I’m particularly passionate about **Git** and **JavaScript**, with lots of love for **Python** 🐍 and **WordPress**
 - 💻 - I work at [Skillcrush](https://skillcrush.com) 
 - 💬 - I am open to collaborating!
 - 📫 - You can reach me on [Twitter](https://twitter.com/redrambles) and [LinkedIn](https://www.linkedin.com/in/ann-cascarano-28877693/)
